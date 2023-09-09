@@ -1,0 +1,25 @@
+/* Додайте ці стилі до вашого Reviews.module.css або окремого CSS файлу */
+
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin: 0;
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .no_reviews {
+    font-size: 16px;
+    color: #888;
+  }
+  

@@ -1,0 +1,47 @@
+/* Cast.module.css */
+
+.wrapper {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+}  
+  
+.castList {
+    list-style: none;
+    padding: 0;
+  }
+  
+.actor {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+.castImage {
+    max-width: 100px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+.CastName {
+    font-size: 18px;
+    margin: 0;
+    margin-right: 15px;
+    color: #333;
+  }
+  
+  .character {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .no-image {
+    font-size: 16px;
+    color: #888;
+  }
+  
+  .loading {
+    font-size: 16px;
+    color: #777;
+  }
